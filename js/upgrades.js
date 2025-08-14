@@ -1673,7 +1673,7 @@ const UPGS = {
             }, 
             5: {
                 unl() { return player.sun.shard.gte(1)},
-                desc: `解锁腐化中子树和星界,在行星重置时保留前5块中子树升级（没做完）在挑战23中增加原子推进的效果.`,
+                desc: `恭喜通关.`,
              
                 cost: E(7e177),
             }, 
