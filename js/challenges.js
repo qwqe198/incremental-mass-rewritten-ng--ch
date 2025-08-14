@@ -872,7 +872,7 @@ const CHALS = {
         effDesc(x) { return "+"+format(x) },
     },
     25: {
-        unl() { return player.sun.shard.gte(999999999999999) },
+        unl() { return player.sun.shard.gte(999999999999999) },//咕咕咕
         title: "转生黑矮星",
         desc: "使所有星辰相关资源的获取速度指数变为原来的0.5次方,使星辰发生器的效果指数变为原来的0.5次方.   +充能挑战1:六重阶层^0.5,七重阶层/10,八重阶层/5,九重阶层/2.",
         reward() {
