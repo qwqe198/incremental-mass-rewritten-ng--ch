@@ -11,7 +11,7 @@ const TREE_TAB = [
 
 const TREE_IDS = [
     [
-        ['c','feat1','feat2'],
+        ['c'],
         ['qol1','','','','qu_qol1',''],
         ['chal1'],
         ['bs4','bs1','','qf1','','rad1'],
